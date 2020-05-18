@@ -1,0 +1,8 @@
+prefix=/home/tilda/projekt/devel
+
+Name: ar_sub
+Description: Description of ar_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tilda/projekt/devel/lib 
+Requires: 

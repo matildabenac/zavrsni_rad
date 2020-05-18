@@ -1,0 +1,8 @@
+prefix=/home/tilda/projekt/install
+
+Name: kinect_rviz
+Description: Description of kinect_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tilda/projekt/install/lib 
+Requires: 

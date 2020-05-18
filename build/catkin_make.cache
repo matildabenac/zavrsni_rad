@@ -1,0 +1,2 @@
+src/ar_sub:src/ar_sub_pkg:src/kinect_rviz
+-DCATKIN_DEVEL_PREFIX=/home/tilda/projekt/devel -DCMAKE_INSTALL_PREFIX=/home/tilda/projekt/install -G Unix Makefiles
