@@ -1,7 +1,7 @@
 # Završni rad
-##Određivanje položaja i praćenje bespilotnih letjelica pomoću RGB kamera
+## Određivanje položaja i praćenje bespilotnih letjelica pomoću RGB kamera
 
-###Preduvjeti
+### Preduvjeti
 
 * [ROS Melodic](https://wiki.ros.org/melodic)
 * Python
@@ -10,7 +10,7 @@
 * [ROS paket 'rviz'](https://wiki.ros.org/rviz)
 * Microsoft Kinect XBOX 360 kamera
 
-###Instalacija
+### Instalacija
 Kreirati buduće radno okruženje i klonirati repozitorij
 ```
 mkdir <workspace>
@@ -23,7 +23,7 @@ catkin_make
 source <workspace>/devel/setup.bash
 ```
 
-###Pokretanje
+### Pokretanje
 ```
 cd <workspace>
 roslaunch ar_track_launch/launch/kinect_ar_track_alvar.launch
