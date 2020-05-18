@@ -1,5 +1,6 @@
-# Završni rad
-## Određivanje položaja i praćenje bespilotnih letjelica pomoću RGB kamera
+# Završni rad - Određivanje položaja i praćenje bespilotnih letjelica pomoću RGB kamera
+
+## Tehnički Fakultet Rijeka, Preddiplomski studij računarstva (Mentor: izv.prof.dr.sc. Kristijan Lenac)
 
 ### Preduvjeti
 
